@@ -1,4 +1,4 @@
-﻿using System; //przesyłam mini gierkę, niestety git mnie irytował, więc przepisałam do fiddle
+﻿using System; 
 
 class Program
 {
